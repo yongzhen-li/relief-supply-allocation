@@ -28,12 +28,12 @@ Suppliers.txt records, for each Supplier:
 - the mean of the proportion of usable production capacity and SPI quantity for testing scenarios
 - the STD of the proportion of usable production capacity and SPI quantity for testing scenarios
 
-disFD.txt records the distance from facilities to demand nodes \\
-disSD.txt records the distance from suppliers to demand nodes \\
-disSF.txt records the distance from suppliers to facilities \\
+disFD.txt records the distance from facilities to demand nodes \
+disSD.txt records the distance from suppliers to demand nodes \
+disSF.txt records the distance from suppliers to facilities 
 
-hkn.txt records the unit procurement cost for each quantity interval and each supplier \\
-SupPriceBpL.txt records the lower bound for each quantity interval and each supplier \\
-SupPriceBpU.txt records the upper bound for each quantity interval and each supplier \\
+hkn.txt records the unit procurement cost for each quantity interval and each supplier \
+SupPriceBpL.txt records the lower bound for each quantity interval and each supplier \
+SupPriceBpU.txt records the upper bound for each quantity interval and each supplier \
 unit procurement cost for each quantity interval and each supplier \\
 hlkt.txt records the unit procurement cost for each lead time interval and each supplier \\
