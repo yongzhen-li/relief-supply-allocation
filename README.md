@@ -36,4 +36,4 @@ hkn.txt records the unit procurement cost for each quantity interval and each su
 SupPriceBpL.txt records the lower bound for each quantity interval and each supplier \
 SupPriceBpU.txt records the upper bound for each quantity interval and each supplier
 unit procurement cost for each quantity interval and each supplier \
-hlkt.txt records the unit procurement cost for each lead time interval and each supplier \
+hlkt.txt records the unit procurement cost for each lead time interval and each supplier 
